@@ -1,0 +1,359 @@
+<html>
+<title>
+class 9th video lec.
+</title>
+<body>
+
+
+<a href="C:\Users\Vapinder\Documents\home page.html">
+
+<img src="C:\Users\vapinder\Downloads\home_icon-removebg-preview.png" class="deep" height="50px" width="50px">
+  </a>
+<style>
+
+
+.deep:hover{
+height:55px;
+width:55px;
+
+
+
+
+}
+</style>
+<HEAD>
+<style>
+.cetner{
+filter: drop-shadow(0 0 0.70rem black);
+}
+</style>
+
+<img src="C:\Users\vapinder\Downloads\new-illustration.png" width="1300" height="600">
+<style>
+body{
+
+ background: linear-gradient(-999deg, #ca88bd,#ca88bd);
+
+}
+
+
+
+.scroll {
+border: none;
+padding: 5px;
+font: 24px/36px sans-serif;
+width: 200px;
+height: 200px;
+overflow: scroll;
+}
+::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+}
+::-webkit-scrollbar-track {
+border: 2px solid #7639a7;
+border-radius: 50px;
+}
+::-webkit-scrollbar-thumb {
+background:linear-gradient(transparent,#7639a7);
+border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+background:linear-gradient(transparent,white);
+}
+
+
+
+
+
+body{
+
+
+
+
+}
+
+h2{
+color:#7639a7;
+font-size:65px;
+text-shadow:4px 4px 3px #ac4597;
+text-align:center;
+}
+
+
+
+
+
+
+.word{
+text-decoration:none;
+color:black;
+
+font-size:40;
+}
+
+.spreadsheet{
+text-decoration:none;
+
+color:#fff;
+font-size:40;
+}
+
+
+
+.spreadsheet:hover{
+color: orange;
+font-size:40.5px;
+
+}
+
+a:hover{
+color:black;
+font-size:40.5px;
+
+}
+
+
+
+
+.POWERPOINT{
+text-decoration:none;
+text-shadow:2px 2px 2px #ac4597;
+color:	 #4d4dff;
+font-size:40;
+}
+
+
+
+.POWERPOINT:hover{
+color:;
+font-size:40.5px;
+
+}
+
+
+.mail{
+text-decoration:none;
+text-shadow:4px 4px 4px #ac4597;
+
+color:#FEE715FF;
+font-size:40;
+}
+
+
+
+.mail:hover{
+color:#f5b41a;
+font-size:40.5px;
+}
+
+
+
+
+
+</style>
+</head>
+
+
+<h2>
+
+<br>COMMUNICATION SKILLS
+
+</h2>
+
+<h3>
+<br><A class="word" href="https://youtu.be/AlLF1Sb1GXM">
+
+1.Introduction to communication
+
+</a>
+<br>
+<br><A class="word" href="https://youtu.be/wAfvCq-7mIg">
+2.Verbal communication
+
+</a>
+
+<br>
+<br><A class="word" href="https://youtu.be/4-Qi9oak_wo">
+3.Non-verbal communication
+
+</a>
+<br>
+<br><A class="word" href="https://youtu.be/TNI3H2yMvOw">
+4.Writing skills:Speech part
+</a><br>
+<br><A class="word" href="https://youtu.be/gpDxPlpMuWQ">
+5.Writing skills:Sentences 
+</a><br>
+<br>
+<br><A class="word" href="https://youtu.be/gpDxPlpMuWQ">
+6......
+</a><br>
+<br>
+<br><A class="word" href="https://youtu.be/gpDxPlpMuWQ">
+7...... 
+</a><br>
+
+<br>
+<br><A class="word" href="https://youtu.be/gpDxPlpMuWQ">
+8.Talking about self
+</a><br>
+
+<br>
+<br><A class="word" href="https://youtu.be/gpDxPlpMuWQ">
+9.Asking questions (i)
+</a><br>
+
+<br>
+<br><A class="word" href="https://youtu.be/gpDxPlpMuWQ">
+10.Asking questions(ii) 
+</a><br>
+
+
+
+<h2>
+
+<br>
+Self-management skills
+</h2>
+<h3>
+<br><A class="spreadsheet" href="https://youtu.be/B1WiZ0JDI7c">
+1.introduction to self management
+
+</a>
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/ewMC2q5aY14">
+2.Strengths and weeknesses analysis
+</a>
+
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/ewMC2q5aY14">
+3.Confidance
+
+</a>
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/9HLBx6S90GI">
+4.Positive thinking
+
+</a><br>
+
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/9HLBx6S90GI">
+5.Personal cleaning
+</a><br>
+
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/9HLBx6S90GI">
+6.Grooming
+</a><br>
+
+
+
+<h2>
+
+<br>INFORMATION AND COMMUNICATION TECHNOLOGY SKILLS
+
+</h2>
+<h3>
+<br><A class="POWERPOINT" href="https://youtu.be/cKOu9hdGIWo">
+1.Introduction to ICT
+</a>
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/v1rQtbiCmEY">
+2.ICT.tools;Smartphones and tablets(i)
+</a>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+3.ICT tolls:Smartphone and tablest(ii)
+</a>
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+4.computer and periphieral part
+
+</a><br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+5.Basic computer applications
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+6.Performing basic file oprations
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+7.Communicatin and networking-The foundation of the internet
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+8.Communiaction and networking-Internet browsing
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+9.Communication and networking-Introducton to Email
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+10.Communication and networking-Creating an Emailaccount
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+11.Communication and networking-wrting an Email
+</a><br>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+12.Communication and networking-Receving and replying to Emails
+</a><br>
+
+
+
+
+<h2>
+
+<br>ENTERPRENEURSHIP SKILLS
+
+</h2>
+<h3>
+<br><A class="mail" href="https://youtu.be/WIpyP8UTlEw">
+1.What is entrepreneuship?
+
+</a>
+<br>
+<br><A class="mail"href="https://youtu.be/xkg3iS4LmCU">
+2.The role of entrepreneuship
+
+</a>
+
+<br>
+<br><A class="mail"href="https://youtu.be/AlLF1Sb1GXM">
+3.Features of successful entrepreneuship
+</a>
+<br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+4.Different attributes of entrepreneuship and salary
+
+</a><br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+5.Types of business activities
+</a><br>
+<br><A  class="mail"href="https://youtu.be/AlLF1Sb1GXM">
+6.Products,services hybrid business
+
+</a><br>
+<br><A class="mail"href="https://youtu.be/AlLF1Sb1GXM">
+7.Entreprise Develment process
+
+</a><br>
+
+
+</h3>
+</body>
+
+
+</html>

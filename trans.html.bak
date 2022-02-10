@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	
+</head>
+<body>
+	 <link
+      rel="stylesheet"
+      href=
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+	<link
+      rel="stylesheet"
+      href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    />
+	<!-- heading -->
+	<div class="full">
+		<h3><font color="#007bff" class="center">FEEDBACK</font></h3>
+
+		<div class="lt">
+
+		<!-- form starting -->
+		<form class="form-horizontal"
+				method="post" action="file:///C:/Users/Vapinder/Documents/home%20page.html">
+			<div class="form-group">
+			<div class="col-sm-12">
+				<!-- name -->
+				<input
+				type="text"
+				class="form-control"
+				id="name"
+				placeholder="NAME"
+				name="name"
+				value=""
+				/>
+			</div>
+			</div>
+
+			<div class="form-group">
+			<div class="col-sm-12">
+				<!-- email -->
+				<input
+				type="email"
+				class="form-control"
+				id="email"
+				placeholder="EMAIL"
+				name="email"
+				value=""
+				/>
+			</div>
+			</div>
+
+
+
+			<!-- message -->
+			<textarea
+			class="form-control"
+			rows="10"
+			placeholder="MESSAGE"
+			name="message">
+			</textarea>
+
+			<button
+			class="btn btn-primary send-button"
+			id="submit"
+			type="submit"
+			value="SEND">
+			<i class="fa fa-paper-plane"></i>
+			<span class="send-text">SEND</span>
+			</button>
+		</form>
+		<!-- end of form -->
+		</div>
+
+		<!-- Contact information -->
+		<div class="rt">
+		<ul class="contact-list">
+			<li class="list-item">
+			<i class="fa fa-map-marker fa-1x">
+				<span class="contact-text place">
+				V.P.O.-Kaila,Tehshil-Dharamkot,district-Moga 
+				</span>
+			</i>
+			</li>
+
+			<li class="list-item">
+			<i class="fa fa-envelope fa-1x">
+				<span class="contact-text gmail">
+				<a href="mailto:davinderpalmattu42@gmail.com" title="Send me an email">
+					<font color="black">davinderpalmattu42@gmail.com</font></a>
+				</span>
+			</i>
+			</li>
+
+			<li class="list-item">
+			<i class="fa fa-phone fa-1x">
+				<span class="contact-text phone">
+				<font color="black" class="deep">+91 9914108049</font>
+				</span>
+			</i>
+			</li>
+		</ul>
+		</div>
+	</div>
+	</section>
+	<style>
+	
+	
+	
+.center{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:40%;
+font-size:80px;
+font: 50px/50px sans-serif;
+text-shadow: 4px 4px 4px #aaa;
+}
+
+
+.contact-text place{
+font-size:90px;
+
+}
+	
+.deep{
+text-decoration:none;
+}	
+	
+	
+
+
+	
+</body>
+</html>

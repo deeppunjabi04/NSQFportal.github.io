@@ -1,0 +1,328 @@
+<html>
+<title>
+class10th lec.
+</title>
+<body>
+<HEAD>
+
+<a href="C:\Users\Vapinder\Documents\home page.html">
+
+<img src="C:\Users\vapinder\Downloads\home_icon-removebg-preview.png" class="deep" height="50px" width="50px">
+  </a>
+<style>
+
+
+.deep:hover{
+height:55px;
+width:55px;
+
+
+
+
+}
+</style>
+
+
+<img src="C:\Users\vapinder\Downloads\new-illustration.png" width="1300" height="600">
+<style>
+body{
+
+ background: linear-gradient(-999deg, #ca88bd,#ca88bd);
+
+}
+
+
+
+.scroll {
+border: none;
+padding: 5px;
+font: 24px/36px sans-serif;
+width: 200px;
+height: 200px;
+overflow: scroll;
+}
+::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+}
+::-webkit-scrollbar-track {
+border: 2px solid #7639a7;
+border-radius: 50px;
+}
+::-webkit-scrollbar-thumb {
+background:linear-gradient(transparent,#7639a7);
+border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+background:linear-gradient(transparent,white);
+}
+
+
+
+body{
+
+
+
+
+}
+
+h2{
+color:#7639a7;
+font-size:65px;
+text-shadow:4px 4px 3px #ac4597;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.word{
+text-decoration:none;
+color:black;
+
+font-size:40;
+}
+
+.spreadsheet{
+text-decoration:none;
+
+color:#fff;
+font-size:40;
+}
+
+
+
+.spreadsheet:hover{
+color: orange;
+font-size:40.5px;
+
+}
+
+a:hover{
+color:black;
+font-size:40.5px;
+
+}
+
+
+
+
+.POWERPOINT{
+text-decoration:none;
+text-shadow:2px 2px 2px #ac4597;
+color:	 #4d4dff;
+font-size:40;
+}
+
+
+
+.POWERPOINT:hover{
+color:;
+font-size:40.5px;
+
+}
+
+
+.mail{
+text-decoration:none;
+text-shadow:4px 4px 4px #ac4597;
+
+color:#FEE715FF;
+font-size:40;
+}
+
+
+
+.mail:hover{
+color:#f5b41a;
+font-size:40.5px;
+}
+
+
+
+
+
+</style>
+</head>
+
+
+<h2>
+
+<br>DIGITAL DOCUMENTATION (ADCANCED)
+
+</h2>
+
+<h3>
+<br><A class="word" href="https://youtu.be/51Zu6o4jrzM">
+
+1.Create and apply styles in the documents
+
+</a>
+<br>
+<br><A class="word" href="https://youtu.be/gpqypOEIJ-E">
+2.Insert and use image
+
+</a>
+
+<br>
+<br><A class="word" href="https://you/4-Qi9oak_wo">
+3.create and use image
+
+</a>
+<br>
+<br><A class="word" href="https://youtu.be/940rakTI-PU">
+4.Create and coustomize table of contents
+
+</a><br>
+<br><A class="word" href="https://youtu.be/MzkX1ukTvXY">
+5.Implements mail merge
+
+</a><br>
+
+
+
+
+
+<h2>
+
+<br>ELECTRONIC SPREADSHEET (ADVANCED)
+
+</h2>
+<h3>
+<br><A class="spreadsheet" href="https://youtu.be/LLgpWNAQPj4">
+1.Analyse data using scenarios and goal seek
+
+</a>
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/YxcWjsPj6nc">
+2.Link data and spreadsheets
+
+</a>
+
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/-04e2RvJMdQ">
+3.Share and review spreadsheet
+
+</a>
+<br>
+<br><A class="spreadsheet" href="https://youtu.be/qIGYXmQq-so">
+4.Create and use macros in spreadsheet
+
+</a><br>
+
+
+
+
+<h2>
+
+<br>RELATIONAL DATABASE MANAGMENT SYSTEMS(BASIC)
+
+</h2>
+<h3>
+<br><A class="POWERPOINT" href="https://youtu.be/hajBoijQ4k4">
+1.Appreciate the concept of database managment system
+
+</a>
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/1vbnuEYtEYk">
+2.Creat and edit table using wizard and SQL commands
+
+</a>
+
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+3.Preform oprations on table
+
+</a>
+<br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+4.Retrieve data using query
+
+</a><br>
+<br><A class="POWERPOINT"  href="https://youtu.be/AlLF1Sb1GXM">
+5.create forms and reports using wizard
+
+</a><br>
+
+
+
+<h2>
+
+<br>WEB APPLICATIONS AND SECURITY
+
+</h2>
+<h3>
+<br><A class="mail" href="https://youtu.be/WIpyP8UTlEw">
+1.Working with accesibility options
+
+</a>
+<br>
+<br><A class="mail"href="https://youtu.be/xkg3iS4LmCU">
+2.Networking  fundamentals
+
+</a>
+
+<br>
+<br><A class="mail"href="https://youtu.be/AlLF1Sb1GXM">
+3.introduction to instant messaging
+</a>
+<br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+4.Chating with a contact-google talk 
+
+</a><br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+5.Creating and publishing web pages-blog
+
+</a><br>
+<br><A  class="mail"href="https://youtu.be/AlLF1Sb1GXM">
+6.Using offline blog editors
+
+</a><br>
+<br><A class="mail"href="https://youtu.be/AlLF1Sb1GXM">
+7.Online transactions
+
+</a><br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+8.internet security
+
+</a>
+
+<br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+9.Maintain workplace safety
+
+</a>
+
+
+<br>
+<br><A class="mail" href="https://youtu.be/AlLF1Sb1GXM">
+10.prevent accidents and emergencies
+</a>
+
+</h3>
+</body>
+
+
+</html>
